@@ -69,8 +69,12 @@
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/MrPervoikin" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
+<img src="https://i.yapx.ru/Xew00.png" alt="github" style="margin-bottom: 5px;" />
+</a>
+<a href="https://t.me/MrPervoikin" target="_blank">
+<img src="https://i.yapx.ru/Xew0d.png" alt="tg" style="margin-bottom: 5px;" />
+</a>
+  
 </div>  
   
 
@@ -80,15 +84,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MrPervoikin&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
+<br/>    
 
 <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
@@ -105,4 +101,3 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

@@ -68,13 +68,9 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/MrPervoikin" target="_blank">
-<img src="https://i.yapx.ru/Xew00.png" alt="github" style="margin-bottom: 5px;" />
-</a>
 <a href="https://t.me/MrPervoikin" target="_blank">
-<img src="https://i.yapx.ru/Xew0d.png" alt="tg" style="margin-bottom: 5px;" />
-</a>
-  
+<img src="https://i.ibb.co/mbBF2Jw/telegram.png" alt="telegram">
+</a> 
 </div>  
   
 
@@ -85,10 +81,6 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MrPervoikin&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>    
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=MrPervoikin&&style=flat-square" align="center" />
